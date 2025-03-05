@@ -1,0 +1,28 @@
+body{
+    font-family: Roboto;
+    color:black;
+}
+#menu ul{
+    background-color:white;
+    list-style-type: none;
+    text-align: center;
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+#menu li{
+    font-style: Roboto;
+    display:inline-block;
+    width: 120px;
+    height: 40px;
+    line-height:40px;
+}
+
+p{font-family: Montserrat; text-align: left; margin-inline: 17cm; font-size: 17px;}
+h1{font-family: Roboto; text-align: center; font-size:40px; margin-inline: 17cm;}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
